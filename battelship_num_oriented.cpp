@@ -234,7 +234,7 @@ if (playerscore== 4){
 }
 //------------------------------------------------------------------------------------------------------------------------------------------
 int main() {
-    cout<< "==================================\n";    //non eliminabile altrimenti crepa tutto per nessuna ragine
+    cout<< "==================================\n";    //non eliminabile altrimenti crepa tutto per nessuna ragine .)
    cout<< "istruzioni: 1 = nave, 2 = colpito,\n";
    cout<< "3 = Mancato, 0 = casella vuota\n";
     cout<< "==================================\n";
